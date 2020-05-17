@@ -1,0 +1,17 @@
+{ "providerName": "Living As One", "language": "en-US", "lastUpdated": "2020-02-24T09:11:45+00:00", "shortFormVideos": [ 
+{ 
+"id": "uid1", "title": " Browncroft Community Church ", 
+"content": { "dateAdded": "2020-02-01T09:06:45+00:00", "captions": [], "duration": 65 , "videos": [{ 
+"url": " https://media37.livingasone.com/br-own-ny/Manifest.mpd ", "quality": "FHD", "videoType": "DASH", "bitrate": "3000" 
+}] }, 
+"shortDescription": " Browncroft Community Church Rochester, New York. ", 
+"longDescription": " Browncroft Community Church Rochester, New York. ", 
+"thumbnail": " https://storage.googleapis.com/support.livingasone.com/files/roku/COLive.png ", 
+"releaseDate": "2020-01-26", "tags": [ 
+} 
+], "categories": [ 
+"religious", 
+"faith-based" ] 
+{ "name": "Religious", "query": "religious AND faith-based", "order": "most_recent" 
+} ] 
+}
